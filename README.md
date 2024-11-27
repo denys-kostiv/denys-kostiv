@@ -1,4 +1,5 @@
 With over 7 years of experience in full-stack web development, I specialize in delivering high-quality, scalable, and performance-optimized web applications. 
+
 My approach combines deep technical expertise with practical, results-driven strategies to ensure each project not only meets but exceeds expectations.
 
 ## ✅ Technical Skills & Expertise
@@ -21,13 +22,13 @@ My approach combines deep technical expertise with practical, results-driven str
 - Docker, CI/CD pipelines for seamless deployments and scaling.
 - Proficient in building serverless and cloud-native applications.
 
-✅ Key Achievements:
+## ✅ Key Achievements:
 - 🚀 Optimized Project Delivery: Contributed to a team augmentation project, cutting project delivery time by 30% while enhancing productivity.
 - ⚡ Performance Enhancements: Implemented cutting-edge performance optimization techniques that improved web app responsiveness and user experience.
 - 🛠 Reusable Component Library: Built a reusable component library for a coaching platform, reducing development time by 35% and ensuring consistent UI/UX across multiple projects.
 - 🔐 Security Expertise: Led the design of secure authentication systems for the healthcare industry, resulting in significant reductions in security vulnerabilities.
 
-✅ Why Work With Me?
+## ✅ Why Work With Me?
 - Scalable & Efficient Solutions: I craft solutions that grow with your business while ensuring the highest levels of performance.
 - Team Collaboration & Mentorship: I take pride in fostering collaborative environments, mentoring junior developers, and driving teams toward excellence.
 - Results-Oriented: I’m committed to delivering solutions that meet your goals—on time and on budget.
